@@ -1,1 +1,2 @@
-# ACR
+#ACR
+Arch Community Repository
