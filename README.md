@@ -1,2 +1,1 @@
-#ACR
 Arch Community Repository
